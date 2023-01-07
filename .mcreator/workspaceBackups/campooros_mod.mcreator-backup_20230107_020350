@@ -1,0 +1,80 @@
+{
+  "mod_elements": [
+    {
+      "name": "Adamant",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adamant"
+    },
+    {
+      "name": "Campooros",
+      "type": "dimension",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "campooros",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Fireshale",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fireshale"
+    },
+    {
+      "name": "CampoorosTab",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "campooros_tab"
+    },
+    {
+      "name": "CaloriteOre",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "calorite_ore"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabcampooros_tab": "Campooros Mod",
+      "item.campooros_mod.adamant": "Adamant",
+      "item.campooros_mod.campooros": "Blood \u0027n Steel",
+      "block.campooros_mod.calorite_ore": "Calorite Ore",
+      "block.campooros_mod.fireshale": "Fireshale"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "campooros_mod",
+    "modName": "Campooros Mod",
+    "version": "1.0.0",
+    "author": "demsk, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.campoorosmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
