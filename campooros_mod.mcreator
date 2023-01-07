@@ -1,0 +1,41 @@
+{
+  "mod_elements": [
+    {
+      "name": "Adamant",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adamant"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.campooros_mod.adamant": "Adamant"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "campooros_mod",
+    "modName": "Campooros Mod",
+    "version": "1.0.0",
+    "author": "demsk, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.campoorosmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
