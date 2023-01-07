@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "campooros_mod:blocks/block_fireshale",
+    "up": "campooros_mod:blocks/block_fireshale",
+    "north": "campooros_mod:blocks/block_fireshale",
+    "east": "campooros_mod:blocks/block_fireshale",
+    "south": "campooros_mod:blocks/block_fireshale",
+    "west": "campooros_mod:blocks/block_fireshale",
+    "particle": "campooros_mod:blocks/block_fireshale"
+  },
+  "render_type": "solid"
+}

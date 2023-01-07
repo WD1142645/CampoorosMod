@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "campooros_mod:items/blood_and_steel"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:badlands": "2023-01-07 01:47:14 -0500",
+      "minecraft:plains": "2023-01-07 01:45:12 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

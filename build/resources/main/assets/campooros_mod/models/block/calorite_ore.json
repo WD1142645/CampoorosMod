@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "campooros_mod:blocks/block_caloriteore",
+    "up": "campooros_mod:blocks/block_caloriteore",
+    "north": "campooros_mod:blocks/block_caloriteore",
+    "east": "campooros_mod:blocks/block_caloriteore",
+    "south": "campooros_mod:blocks/block_caloriteore",
+    "west": "campooros_mod:blocks/block_caloriteore",
+    "particle": "campooros_mod:blocks/block_caloriteore"
+  },
+  "render_type": "solid"
+}

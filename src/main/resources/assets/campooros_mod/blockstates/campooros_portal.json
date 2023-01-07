@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "campooros_mod:block/campooros_portal_ew"
+    },
+    "axis=x": {
+      "model": "campooros_mod:block/campooros_portal_ns"
+    }
+  }
+}

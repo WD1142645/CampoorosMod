@@ -1,0 +1,45 @@
+{
+  "_fv": 34,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "badlands"
+      },
+      {
+        "value": "badlands_plateau"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Fireshale"
+    },
+    "fluidBlock": {
+      "value": "Blocks.WATER"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "CUSTOM:Fireshale"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 1,
+    "portalSound": {
+      "value": "block.blastfurnace.fire_crackle"
+    },
+    "igniterName": "Blood 'n Steel",
+    "igniterTab": {
+      "value": "CUSTOM:CampoorosTab"
+    },
+    "texture": "blood_and_steel",
+    "portalTexture": "block_fireshale",
+    "enablePortal": true
+  }
+}

@@ -29,7 +29,10 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
+import net.mcreator.campoorosmod.init.CampoorosModModTabs;
 import net.mcreator.campoorosmod.init.CampoorosModModItems;
+import net.mcreator.campoorosmod.init.CampoorosModModFeatures;
+import net.mcreator.campoorosmod.init.CampoorosModModBlocks;
 
 import java.util.function.Supplier;
 import java.util.function.Function;
@@ -45,10 +48,13 @@ public class CampoorosModMod {
 
 	public CampoorosModMod() {
 		MinecraftForge.EVENT_BUS.register(this);
-
+		CampoorosModModTabs.load();
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 
+		CampoorosModModBlocks.REGISTRY.register(bus);
 		CampoorosModModItems.REGISTRY.register(bus);
+
+		CampoorosModModFeatures.REGISTRY.register(bus);
 
 	}
 

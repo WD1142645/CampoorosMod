@@ -1,3 +1,7 @@
 {
-  "item.campooros_mod.adamant": "Adamant"
+  "itemGroup.tabcampooros_tab": "Campooros Mod",
+  "item.campooros_mod.adamant": "Adamant",
+  "item.campooros_mod.campooros": "Blood \u0027n Steel",
+  "block.campooros_mod.calorite_ore": "Calorite Ore",
+  "block.campooros_mod.fireshale": "Fireshale"
 }
